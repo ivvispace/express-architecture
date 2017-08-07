@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ivvispace/express-architecture/issues"
   },
-  "homepage": "https://github.com/ivvispace/express-architecture#readme"
+  "homepage": "https://github.com/ivvispace/express-architecture#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.6"
+  }
 }
